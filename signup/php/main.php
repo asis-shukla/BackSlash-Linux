@@ -26,7 +26,7 @@ if($pass == $cpass)  // if pass and cpass are same then insert this in database 
 }
 else // if not same then give a message that passwords NOT match
 {
-    header ('location:../signup.html');
+    header ('location:../signup.php');
 }
 
 ?>
