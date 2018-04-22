@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="main.js"></script>
     <!-- bootstrap cdn link -->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body class="bgground">
     <div class="container-fluid text-center">
